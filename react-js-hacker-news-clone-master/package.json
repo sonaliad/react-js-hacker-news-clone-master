@@ -45,7 +45,6 @@
     "webpack-node-externals": "^1.7.2"
   },
   "scripts": {
-    
     "start": "serve -s build",
     "webpack:client": "webpack --config webpack.client.js --watch",
     "webpack:server": "webpack --config webpack.server.js --watch",
